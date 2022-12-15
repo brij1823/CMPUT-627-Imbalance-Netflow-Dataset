@@ -31,7 +31,10 @@ Please download the dataset first from here: [Dataset](https://drive.google.com/
 
 # Results
 
-![](/results.png)
+![](/result_01.png)
+![](/result_02.png)
+![](/result_03.png)
+![](/result_04.png)
 
 # Email us!
 

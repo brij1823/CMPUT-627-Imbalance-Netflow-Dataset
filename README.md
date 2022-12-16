@@ -20,7 +20,7 @@ The second dataset we have used is NF-UNSW-NB15; the raw network packets of the 
 
 # How to run Codes
 
-Please download the dataset first from here: [Dataset](https://drive.google.com/drive/u/2/folders/1imI_SEXWZSwZhmjqczKx-_HGQKjYCO5w). Unzip the file in the directory. Since we provide pickle files to save your time for data preprocessing, the directory size is almost 10GB.
+Please download the dataset first from here: [Dataset](https://drive.google.com/drive/folders/1imI_SEXWZSwZhmjqczKx-_HGQKjYCO5w?usp=sharing). Unzip the file in the directory. Since we provide pickle files to save your time for data preprocessing, the directory size is almost 10GB.
 
 ## CSE
 * Location: Data_Exploration_CSE.ipynb
